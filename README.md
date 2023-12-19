@@ -21,6 +21,7 @@ Code: `src/app/editor/page.tsx`
 PD Equivalent: `apps/web/src/pages/admin/editor/[id].tsx`
 
 Contains some test data that should be removed when integrated into Delta.
+
 Resizeable layout created using `react-resizable-panels`.
 
 ### Object Catalogue Panel
@@ -33,4 +34,5 @@ Main features to note are:
 
 ### Stage
 Code: `src/app/common/containers/editor/stage.tsx`
+
 Demo of R3F Canvas receiving drag/drop data from the OCP.
